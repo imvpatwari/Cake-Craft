@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+build/
+
+# .NET
+bin/
+obj/
+app.db
+
+# OS / Editor
+.vscode/
+.DS_Store
+*.user
+*.swp
